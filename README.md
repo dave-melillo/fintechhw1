@@ -2,13 +2,13 @@
 
 ## Overview and Origin
 
-* Name of company
+* Name of company: OpenSea
 
-* When was the company incorporated?
+* When was the company incorporated? 2020
 
-* Who are the founders of the company?
+* Who are the founders of the company? Bob and Jill
 
-* How did the idea for the company (or project) come about?
+* How did the idea for the company (or project) come about? NFTs 
 
 * How is the company funded? How much funding have they received?
 
@@ -25,7 +25,7 @@ What solution does this company offer that their competitors do not or cannot of
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
+* What domain of the financial industry is the company in? Blockchain 
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
